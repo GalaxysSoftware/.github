@@ -18,12 +18,14 @@ We're planning to open beta testing to more people so stay tuned!
 Check out some of our siily projects while you wait :)
 
 # Members:
-> [!NOTE]
-> Members Will choose to be listed here so there may be more members than listed.
-<details>
+<details open>
 <summary>Member List</summary>
 <br>
-[GalaxyGaming2OOO GalaxyGaming2000 or GalaxyGaming](https://github.com/GalaxyGaming2OOO)
+<h3>Lead Dev:</h3>
 <br>
-[Skateboy](https://www.youtube.com/@skateboy)
+GalaxyGaming2OOO (GalaxyGaming2000 or GalaxyGaming): <a href="https://github.com/GalaxyGaming2OOO" target="_blank">(Github Profile)</a>
+<br>
+<h3>Website Devs:</h3>
+<br>
+Skateboy: <a href="https://www.youtube.com/@skateboy" target="_blank">(Youtube Profile)</a>
 </details>
