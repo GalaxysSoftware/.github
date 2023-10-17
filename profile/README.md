@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="g_flat_256.png" alt="" width="15%" height="15%">
+  <img src="profile/g_flat_256.png" alt="" width="15%" height="15%">
 
 # <p align="center">Galaxy's Software</p>
 ---
