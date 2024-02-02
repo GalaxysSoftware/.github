@@ -23,7 +23,7 @@ Check out some of our siily projects while you wait :)
 <br>
 <h3>Lead Dev:</h3>
 <br>
-GalaxyGaming2OOO (GalaxyGaming2000 or GalaxyGaming): <a href="https://github.com/GalaxyGaming2OOO" target="_blank">(Github Profile)</a>
+GalaxyGaming2000 (or GalaxyGaming): <a href="https://github.com/GalaxyGaming2000" target="_blank">(Github Profile)</a>
 <br>
 <h3>Website Devs:</h3>
 <br>
